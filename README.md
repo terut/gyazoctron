@@ -1,5 +1,7 @@
 # Gyazoctron
 
+**Note: This is experimental product for using Electron and React**
+
 Gyazo Client by Electron
 
 ## Development
